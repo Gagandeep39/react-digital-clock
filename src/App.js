@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import HeaderComponent from './components/Header/HeaderComponent';
 import ToggleButtonComponent from './components/ToggleButton/ToggleButtonComponent';
+import ClockComponent from './components/Clock/ClockComponent';
 
 class App extends Component {
 
@@ -22,6 +23,7 @@ class App extends Component {
       <div>
         <HeaderComponent />
         <ToggleButtonComponent toggle={this.toggleHandler} />
+        <ClockComponent dateEnabled={this.state.showDate} />
       </div>
     );
   }
