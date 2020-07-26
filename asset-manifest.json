@@ -1,28 +1,27 @@
 {
   "files": {
     "main.css": "/react-digital-clock/static/css/main.f78e34d3.chunk.css",
-    "main.js": "/react-digital-clock/static/js/main.8cd42cd3.chunk.js",
-    "main.js.map": "/react-digital-clock/static/js/main.8cd42cd3.chunk.js.map",
+    "main.js": "/react-digital-clock/static/js/main.bd1c6589.chunk.js",
+    "main.js.map": "/react-digital-clock/static/js/main.bd1c6589.chunk.js.map",
     "runtime-main.js": "/react-digital-clock/static/js/runtime-main.a864dd33.js",
     "runtime-main.js.map": "/react-digital-clock/static/js/runtime-main.a864dd33.js.map",
     "static/css/2.829c9cb5.chunk.css": "/react-digital-clock/static/css/2.829c9cb5.chunk.css",
     "static/js/2.7921a7f4.chunk.js": "/react-digital-clock/static/js/2.7921a7f4.chunk.js",
     "static/js/2.7921a7f4.chunk.js.map": "/react-digital-clock/static/js/2.7921a7f4.chunk.js.map",
     "index.html": "/react-digital-clock/index.html",
-    "precache-manifest.4838c24470c7063033357197b8c20af5.js": "/react-digital-clock/precache-manifest.4838c24470c7063033357197b8c20af5.js",
+    "precache-manifest.0e8faa2c8e7c6f1d294492e6c9d03366.js": "/react-digital-clock/precache-manifest.0e8faa2c8e7c6f1d294492e6c9d03366.js",
     "service-worker.js": "/react-digital-clock/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/react-digital-clock/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.f78e34d3.chunk.css.map": "/react-digital-clock/static/css/main.f78e34d3.chunk.css.map",
     "static/js/2.7921a7f4.chunk.js.LICENSE.txt": "/react-digital-clock/static/js/2.7921a7f4.chunk.js.LICENSE.txt",
     "static/media/calendar.6058d514.svg": "/react-digital-clock/static/media/calendar.6058d514.svg",
-    "static/media/clock.a6b1d9fb.svg": "/react-digital-clock/static/media/clock.a6b1d9fb.svg",
-    "static/media/logo.svg": "/react-digital-clock/static/media/logo.5d5d9eef.svg"
+    "static/media/clock.a6b1d9fb.svg": "/react-digital-clock/static/media/clock.a6b1d9fb.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a864dd33.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.7921a7f4.chunk.js",
     "static/css/main.f78e34d3.chunk.css",
-    "static/js/main.8cd42cd3.chunk.js"
+    "static/js/main.bd1c6589.chunk.js"
   ]
 }
