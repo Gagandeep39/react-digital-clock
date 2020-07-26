@@ -1,0 +1,35 @@
+.circle {
+  height: 162px;
+  width: 162px;
+  background-color: #535353;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 24px;
+}
+
+.inner-circle {
+  height: 136px;
+  width: 136px;
+  background-color: #3a3a3a;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 13px;
+}
+
+h3 {
+  padding-top: 30px;
+  text-align: center;
+  margin: auto;
+  color: cyan;
+  vertical-align: middle;
+}
+
+p {
+  color: cyan;
+  vertical-align: middle;
+  font-size: small;
+}
+
+div {
+  text-align-last: center;
+}
