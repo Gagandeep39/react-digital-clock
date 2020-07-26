@@ -5,7 +5,7 @@ import './HeaderComponent.component.css'
 
 const HeaderComponent = (props) => {
   return (
-    <div className='container'>
+    <div>
           <h2> <Clock style={{ padding: '1px' }} /> Digital Clock</h2>
     </div>
   );
