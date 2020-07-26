@@ -39,16 +39,18 @@ export default class ClockComponent extends Component {
       current_datetime.getMinutes() +
       ':' +
       current_datetime.getSeconds();
+
+      // this.weekDays[current_datetime.getDay()] +
+      //   ' ' +
+      //   current_datetime.getDate() +
+      //   ' ' +
+      //   this.months[current_datetime.getMonth()] +
+      //   ' ' +
+      //   current_datetime.getFullYear(),
     this.setState({
       time: currentTime,
-      date:
-        this.weekDays[current_datetime.getDay()] +
-        ' ' +
-        current_datetime.getDate() +
-        ' ' +
-        this.months[current_datetime.getMonth()] +
-        ' ' +
-        current_datetime.getFullYear(),
+      date: current_datetime.toDateString()
+        
     });
   }
 
