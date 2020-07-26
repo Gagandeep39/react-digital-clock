@@ -8,7 +8,7 @@ export default class ToggleButtonComponent extends Component {
     return (
       <div className='toggleComponent'>
         <label class='switch'>
-          <input type='checkbox' id='togBtn' />
+          <input type='checkbox' id='togBtn' onChange={this.props.toggle} />
           <div class='slider round'></div>
         </label>
         <Calendar />
